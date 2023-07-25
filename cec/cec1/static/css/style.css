@@ -1,0 +1,9 @@
+{%load static%}
+body{
+	text-decoration: none;
+	background-image: url("{% static 'img/map.jpg' %}");
+}
+img{
+	height: 100px;
+	width: 100px;
+}
